@@ -1,6 +1,5 @@
 # Read me!!
 - 👋 Hi, I’m @gomagoma7
-- I'm a fifth grade student at Kumamoto National Institute of Technology
 - My hobby is playing Shogi and drinking coffee.
 - Nice to meet you!
 
