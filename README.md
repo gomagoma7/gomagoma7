@@ -1,5 +1,6 @@
 # Read me!!
 - 👋 Hi, I’m @gomagoma7
+- I am a student at Toyohashi University of Technology.
 - My hobby is playing Shogi and drinking coffee.
 - Nice to meet you!
 
